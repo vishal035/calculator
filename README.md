@@ -25,13 +25,17 @@ Using useState, useReducer to manage the app state.
 ### ScreenShots
 
 **Default APP State**
+
 ![Main Screen](./public/Web%20capture_30-8-2022_15311_localhost.jpeg)
 
 **Adding 2 Number**
+
 ![Main Screen](./public/Web%20capture_30-8-2022_15345_localhost.jpeg)
 
 **Subtracting with a Negitive Number**
+
 ![Main Screen](./public/Web%20capture_30-8-2022_15418_localhost.jpeg)
 
 **Finding Percentage(x% of y)**
+
 ![Main Screen](./public/Web%20capture_30-8-2022_15445_localhost.jpeg)
